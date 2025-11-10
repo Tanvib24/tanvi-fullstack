@@ -1,4 +1,7 @@
 🎵 Tanvi Fullstack — Spotify Lookalike App
+![Uploading Screenshot 2025-11-10 135047.png…]()
+![Uploading Screenshot 2025-11-10 134958.png…]()
+
 
 A full-stack music streaming web app built with React (Vite), Node.js, Express, and MongoDB.
 Users can sign up, log in, upload tracks, create playlists, and play music directly in the browser 🎧
