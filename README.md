@@ -1,5 +1,5 @@
-🎵 Tanvi Fullstack — Spotify Lookalike App
-<img width="1841" height="969" alt="Screenshot 2025-11-10 135047" src="https://github.com/user-attachments/assets/daf83a51-738a-475e-b319-8abb508c608c" />
+#🎵 Tanvi Fullstack — Music Player Website (Spotify Lookalike App
+)<img width="1841" height="969" alt="Screenshot 2025-11-10 135047" src="https://github.com/user-attachments/assets/daf83a51-738a-475e-b319-8abb508c608c" />
 <img width="1832" height="971" alt="Screenshot 2025-11-10 134958" src="https://github.com/user-attachments/assets/b35bdf51-a476-477e-b56b-0fd02162f73d" />
 
 
