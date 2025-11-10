@@ -1,0 +1,70 @@
+# ---------------------------
+# 🌍 General
+# ---------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# ---------------------------
+# ⚙️ Node / NPM
+# ---------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------------------------
+# 🧩 Build Outputs
+# ---------------------------
+dist/
+build/
+.vite/
+.cache/
+coverage/
+
+# ---------------------------
+# 🔐 Environment / Secrets
+# ---------------------------
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ---------------------------
+# 🖼️ Uploads (user media)
+# ---------------------------
+backend/uploads/
+!backend/uploads/.gitkeep
+
+# ---------------------------
+# ⚛️ React + Vite Specific
+# ---------------------------
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/.env
+frontend/.env.local
+frontend/.env.development
+frontend/.env.production
+
+# ---------------------------
+# 🧰 System / Editor
+# ---------------------------
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ---------------------------
+# 🧪 Misc
+# ---------------------------
+package-lock.json
+*.zip
+*.tar.gz
+*.rar
